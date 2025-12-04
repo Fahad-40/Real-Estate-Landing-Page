@@ -31,7 +31,7 @@ h1,h2,h3,h4,h5,h6 {
   width: 100%;
   height: 100%;
   background-color: rgba(0, 0, 0, 0.5); 
-  z-index: 1;  /* 👈 Isse wo text ke neeche nahi, upar nazar aayega */
+  z-index: 1; 
 }
 header,
 .content,
