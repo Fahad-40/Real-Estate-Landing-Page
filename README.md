@@ -10,7 +10,7 @@ A premium-quality modern real estate landing page created using **HTML & CSS**, 
 - Smooth hover animations  
 - SVG wave divider for enhanced design  
 - Partners section with logos and card-style layout  
-- 
+- Fully structured and clean frontend code  
 
 ---
 
