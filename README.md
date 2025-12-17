@@ -20,4 +20,10 @@ A premium-quality modern real estate landing page created using **HTML & CSS**, 
 
 ---
 
-
+## 📌 Future Improvements
+- Make the page fully responsive
+- Add animations on scroll
+- Add a property listings section
+- Add contact & footer section
+- Convert design to a multipage website
+- Use JavaScript for menu toggle on small screens
